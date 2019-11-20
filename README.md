@@ -12,3 +12,11 @@ Noteworthy accomplishments:
   -use of Doxygen to document code with javadoc style comments
   
   -worked with both 1D and 2D Rasters to represent RGB image files
+  
+NOTE: 
+  
+    Not all code is mine, some has been provided by my professor.
+    Code that is 100% mine:
+      -prog4Script.sh
+      -dispatcher.c
+      -tile.c
